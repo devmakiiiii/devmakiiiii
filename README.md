@@ -54,8 +54,8 @@ Always learning, always improving, always building. 🚀
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marcangelopalomares&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=marcangelopalomares&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=devmakiiiii&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=devmakiiiii&theme=tokyonight" />
 </p>
 
 <p align="center">
