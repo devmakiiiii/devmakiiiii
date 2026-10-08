@@ -46,8 +46,8 @@ I specialize in **Next.js**, **React**, **Vue/Nuxt**, **PHP**, **Supabase**, **P
 
 | Project | Description | Tech Stack | Live Demo / Code |
 | :--- | :--- | :--- | :---: |
-| **Personal Portfolio** | Interactive developer portfolio showcasing projects and UI capabilities | Next.js, Tailwind CSS | [🌐 Live Site](https://portfolio-palomares.vercel.app) |
-| **Full-Stack Web App** | Modern web application built with serverless backend and real-time database | Next.js, Supabase, Prisma | [💻 Repo](https://github.com/devmakiii) |
+| **Personal Portfolio** | Interactive developer portfolio showcasing projects and UI capabilities | Next.js, Tailwind CSS | [🌐 Live Site](https://palomaresportfolio.vercel.app) |
+| **Full-Stack Web App** | Modern web application built with serverless backend and real-time database | Next.js, Supabase, Prisma | [💻 Repo](https://github.com/devmakiiiii) |
 
 ---
 
