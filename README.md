@@ -6,7 +6,7 @@
   <a href="https://palomaresportfolio.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel" /></a>
   <a href="https://www.linkedin.com/in/marcpalomares-dev><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
   <a href="mailto:dev.palomares@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/devmakiii"><img src="https://img.shields.io/github/followers/devmakiii?label=Follow&style=social" /></a>
+  <a href="https://github.com/devmakiiiii"><img src="https://img.shields.io/github/followers/devmakiii?label=Follow&style=social" /></a>
 </p>
 
 ---
